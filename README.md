@@ -23,7 +23,7 @@ The New Zealand primeminister,Jacinda Adern has received a large amount of prais
 
 
 ## Project Description
-Although twitter has a RESTful API unfortunately it's only possible to crawl tweets for the week previous. So I decided to use GetoldTweets3, I found this great github with a py.file attached where you can request tweets by various different parameters. 
+Although twitter has a RESTful API unfortunately it's only possible to crawl tweets for the week previous. So I decided to use GetoldTweets3, I found this great github with a py.file attached where you can request tweets by various different parameters. Click [here](https://medium.com/analytics-vidhya/twitter-data-mining-mining-twitter-data-without-api-keys-a2a2bd3f11c) for a great article about using GetoldTweets3.
 
 #### data sources
 GetoldTweets3.py Parameters searchquery "jacinda covid-19" "jacinda corona" 01-02-2020 - 18-05-2020 
